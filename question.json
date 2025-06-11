@@ -1,0 +1,62 @@
+{
+  "data": {
+    "One": [
+      "What does CPU stand for?",
+      "Name one input device.",
+      "What is the full form of HTML?",
+      "What does RAM do?",
+      "What is an algorithm?",
+      "What is a bit?",
+      "Name one programming language.",
+      "What is the use of a compiler?",
+      "What is a variable in programming?",
+      "Define software.",
+      "What is cloud computing?",
+      "What does URL stand for?",
+      "What is an operating system?",
+      "What is a browser?",
+      "What is debugging?",
+      "What is a function in coding?",
+      "Define IP address.",
+      "What is ASCII?",
+      "Name one example of an OS.",
+      "What is a loop in programming?"
+    ],
+    "Two": [
+      "Differentiate between RAM and ROM.",
+      "What is the difference between software and hardware?",
+      "Explain the purpose of an operating system.",
+      "What is the use of a database?",
+      "Describe the client-server model.",
+      "What are the types of software?",
+      "Explain what a flowchart is.",
+      "What is open-source software?",
+      "Compare HTTP and HTTPS.",
+      "Explain the function of the motherboard."
+    ],
+    "Three": [
+      "Explain how the internet works.",
+      "Describe the working of a compiler and interpreter.",
+      "Explain the structure of a C program.",
+      "What are data types in Python?",
+      "Write a Python function to find the factorial of a number.",
+      "Explain the concept of Object-Oriented Programming.",
+      "What is recursion? Give an example.",
+      "Explain the difference between a while and for loop.",
+      "Discuss the uses of data structures.",
+      "Explain the concept of normalization in databases."
+    ],
+    "Five": [
+      "Write a program in Python to implement a simple calculator.",
+      "Explain the different layers of the OSI model with examples.",
+      "Describe the process of software development life cycle (SDLC).",
+      "Compare and contrast Stack and Queue with examples and operations.",
+      "Explain various sorting algorithms with their time complexities.",
+      "Discuss different types of computer networks and their topology.",
+      "Write a SQL query to create a student table and insert sample records.",
+      "Explain memory management in operating systems with diagrams.",
+      "Describe how cybersecurity works and methods to prevent cyber attacks.",
+      "Explain the architecture and working of the von Neumann model."
+    ]
+  }
+}
